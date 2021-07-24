@@ -52,7 +52,7 @@
 }
 
 .pagination a:hover:not(.active) {
-  background-color: crimson;
+  background-color: black;
 }
 
 .pagination a:first-child {
