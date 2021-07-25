@@ -12,13 +12,14 @@
   cursor: pointer;
 }
 .login {
-  float: right;
+  width: 35%;
+  float:inline-end;
   color: grey;
   font-size: 14px;
   margin-top: 0%;
 }
 .button-login {
-  background-color: #2009ee;
+  background-color: #17a1ff;
   border: none;
   border-radius: 4px;
   color: white;
@@ -31,7 +32,7 @@
   cursor: pointer;
 }
 .button-login:hover {
-  background-color: crimson;
+  background-color: #064d82;
 }
 .pagination {
   display: inline-block;
@@ -46,13 +47,13 @@
 }
 
 .pagination a.active {
-  background-color:blue;
+  background-color:#17a1ff;
   color: white;
-  border: 1px solid blue;
+  border: 1px solid #17a1ff;
 }
 
 .pagination a:hover:not(.active) {
-  background-color: black;
+  background-color: #064d82;
 }
 
 .pagination a:first-child {
@@ -75,19 +76,6 @@ img {
   margin-right: auto;
 }
 
- 
-.column {
-  float: left;
-  width: 30.33%;
-  padding: 10px;
-  height: 700px; 
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 
 .heading{
   text-align: center;
@@ -100,6 +88,11 @@ img {
 
 * {
   box-sizing: border-box;
+}
+
+.youtube_width {
+  width: 280px;
+  
 }
 
 
