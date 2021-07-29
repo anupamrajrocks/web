@@ -17,8 +17,7 @@
   cursor: pointer;
 }
 .login {
-  width: 30%;
-  float:inline-end;
+  float:right;
   color: grey;
   font-size: 14px;
   margin-top: 0%;
