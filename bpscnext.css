@@ -1,6 +1,5 @@
 .navbar {
   width: 100%;
-  padding-top: 1%;
 }
 
 .btn-submit {
@@ -21,7 +20,6 @@
   color: grey;
   font-size: 14px;
   margin-top: 0%;
-  padding-top: 1%;
 }
 .button-login {
   background-color: #17a1ff;
